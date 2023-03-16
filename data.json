@@ -1,0 +1,493 @@
+[
+  {
+    "pays": "SENEGAL",
+    "capital": "DAKAR",
+    "Superficie": "196 712 km2",
+    "population":"18 214 893 hbts",
+    "ntp":18214893,
+    "voisin": "Mauritanie, Mali, Guinné Bissau, Guinné Conakry ",
+    "region": [
+      {
+        "nom": "Dakar",
+        "population": {
+          "all":4400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 35,
+          "percenwomen": 45,
+          "percenyoungmen": 65,
+          "percenyounggirl": 55
+        }
+      },
+      {
+        "nom": "Matam",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 40,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Thies",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg",
+    "couleur": ["#008000", "#ffff00", "#ff0000"]
+  },
+  {
+    "pays": "MALI",
+    "capital": "BAMAKO",
+    "population":"21 904 983 hbts",
+    "ntp":21904983 ,
+    "Superficie": "1,24 million km²",
+    "voisin": "Algérie, le Niger, le Burkina Faso ,le Senegal ",
+    "region": [
+      {
+        "nom": "Kayes",
+        "population": {
+          "all":8700000,
+          "men": 5000000,
+          "women": 3800000,
+          "percenmen": 75,
+          "percenwomen": 25,
+          "percenyoungmen": 25,
+          "percenyounggirl": 75
+        }
+      },
+      {
+        "nom": "Sikasso",
+        "population": {
+          "all":6400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 16,
+          "percenwomen": 50,
+          "percenyoungmen":84 ,
+          "percenyounggirl":50 
+        }
+      },
+      {
+        "nom": "Tombouctou",
+        "population": {
+          "all":10400000,
+          "men": 8000000,
+          "women": 2000000,
+          "percenmen": 40,
+          "percenwomen": 42,
+          "percenyoungmen":60 ,
+          "percenyounggirl":58 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg",
+    "couleur": ["#008000", "#ffff00", "#ff0000"]
+  },
+  {
+    "pays": "EGYPTE",
+    "capital": "Le Caire",
+    "Superficie": "1 001 450 km2.",
+    "population":"102 100 000 hbts",
+    "ntp":102100000,
+    "voisin": "Israel, Soudan et la Libye ",
+    "region": [
+      {
+        "nom": "Caire",
+        "population": {
+          "all":4400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 35,
+          "percenwomen": 45,
+          "percenyoungmen": 65,
+          "percenyounggirl": 55
+        }
+      },
+      {
+        "nom": "Gizeh",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 40,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Louxor",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg",
+    "couleur": ["#000000", "#ffffff", "#ff0000"]
+  },
+  {
+    "pays": "NIGERIA",
+    "capital": "ABUJA",
+    "Superficie": "923 769 km2.",
+    "population":"213 400 000 hbts",
+    "populatioN":213400000,
+    "voisin": "Cameroun, Benin, Tchad ,Niger ",
+    "region": [
+      {
+        "nom": "Bauchi",
+        "population": {
+          "all":4400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 35,
+          "percenwomen": 45,
+          "percenyoungmen": 65,
+          "percenyounggirl": 55
+        }
+      },
+      {
+        "nom": "Delta",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 40,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Gombe",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg",
+    "couleur": ["#026b02", "#ffffff", "#026b02"]
+  },
+  {
+    "pays": "Maroc",
+    "capital": "CASABLANCA",
+    "Superficie": "710 850 km2.",
+    "population":"36 952 000 hbts",
+    "ntp":36952000,
+    "voisin": "Algerie, Mauritanie, Espagne",
+    "region": [
+      {
+        "nom": "Oriantal",
+        "population": {
+          "all":4400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 35,
+          "percenwomen": 45,
+          "percenyoungmen": 65,
+          "percenyounggirl": 55
+        }
+      },
+      {
+        "nom": "Fez-Meknes",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 40,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Souss-Massa",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg",
+    "couleur": ["#ff0000","#026b02"]
+  },
+  {
+    "pays": "MAURITANIE",
+    "capital": "NOUAKCHOTT",
+    "Superficie": "1 031 000 km2.",
+    "population":"4 863 989 hbts",
+     "ntp":4863989,
+    "voisin": "Senegal, Mali, Algerie ",
+    "region": [
+      {
+        "nom": "Adrar",
+        "population": {
+          "all":4400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 35,
+          "percenwomen": 45,
+          "percenyoungmen": 65,
+          "percenyounggirl": 55
+        }
+      },
+      {
+        "nom": "Brakna",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 40,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Inchiri",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg",
+    "couleur": ["#ff0000", "#026b02", "#ffff00"]
+  },
+  {
+    "pays": "GHANA",
+    "capital": "ACCRA",
+    "Superficie": "238 533 km2.",
+    "population":"32 820 445 hbts",
+    "ntp":32820445,
+    "voisin": "Togo, Burkina et la Cote d'ivoire ",
+    "region": [
+      {
+        "nom": "Accra",
+        "population": {
+          "all":3400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 35,
+          "percenwomen": 45,
+          "percenyoungmen": 65,
+          "percenyounggirl": 55
+        }
+      },
+      {
+        "nom": "Ashanti",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 50,
+          "percenwomen": 40,
+          "percenyoungmen":50 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Volta",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg",
+    "couleur": ["#ff0000","#ffff00", "#026b02", "#000000"]
+  },
+  {
+    "pays": "TOGO",
+    "capital": "LOME",
+    "Superficie": "56 786 km2.",
+    "population":"8 645 000 hbts",
+    "ntp":8645000,
+    "voisin": "Ghana, Burkina et Benin ",
+    "region": [
+      {
+        "nom": "Kara",
+        "population": {
+          "all":42400000,
+          "men":71000000,
+          "women": 2800000,
+          "percenmen": 85,
+          "percenwomen": 45,
+          "percenyoungmen": 15,
+          "percenyounggirl": 55
+        }
+      },
+      {
+        "nom": "Centrale",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 40,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Savanes",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg",
+    "couleur": ["#ff0000","#026b02","#ffff00","#ffffff"]
+  },
+  {
+    "pays": "KENYA",
+    "capital": "NAIROBI",
+    "Superficie": "591 958 km2.",
+    "population":"528 800 000 hbts",
+    "ntp":528800000,
+    "voisin": "Ethiopie, Tanzanie et la Somalie ",
+    "region": [
+      {
+        "nom": "Nyanza",
+        "population": {
+          "all":6400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 35,
+          "percenwomen": 85,
+          "percenyoungmen": 65,
+          "percenyounggirl": 11
+        }
+      },
+      {
+        "nom": "Centre",
+        "population": {
+          "all":7400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 40,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Littoral",
+        "population": {
+          "all":3400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 70,
+          "percenwomen": 57,
+          "percenyoungmen":30 ,
+          "percenyounggirl":43 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg",
+    "couleur": ["#000000","#ffffff","#ff0000","#008000"]
+  },
+  {
+    "pays": "RWANDA",
+    "capital": "KIGALI",
+    "Superficie": "26 338 km2.",
+    "population":"13 000 000 hbts",
+    "ntp":13000000,
+    "voisin": "Ouganda, Tanzanie et Burundi ",
+    "region": [
+      {
+        "nom": "Kigali",
+        "population": {
+          "all":3400000,
+          "men": 1000000,
+          "women": 2800000,
+          "percenmen": 75,
+          "percenwomen": 31,
+          "percenyoungmen": 32,
+          "percenyounggirl": 69
+        }
+      },
+      {
+        "nom": "Ouest",
+        "population": {
+          "all":27400000,
+          "men": 2000000,
+          "women": 4800000,
+          "percenmen": 36,
+          "percenwomen": 30,
+          "percenyoungmen":64 ,
+          "percenyounggirl":60 
+        }
+      },
+      {
+        "nom": "Nord",
+        "population": {
+          "all":7400000,
+          "men": 300000,
+          "women": 500000,
+          "percenmen": 20,
+          "percenwomen": 37,
+          "percenyoungmen":30 ,
+          "percenyounggirl":83 
+        }
+      }
+
+    ],
+    "drapeau": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg",
+    "couleur": ["#0000ff","#ffffff","#ff0000"]
+  }
+  
+]

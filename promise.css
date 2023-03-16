@@ -1,0 +1,19 @@
+
+  
+
+  img {
+    --animate-duration: 15s;
+  }
+body{
+     background: linear-gradient(120deg, rgba(54, 18, 162, 1), rgba(43, 44, 49, 1));
+}
+.carte{
+    border-radius: 15px;
+    /* border: 1px solid white; */
+    height: 100%;
+    
+}
+img{
+    /* box-shadow: 0 -0.5rem 1rem rgba(218, 216, 216, 0.15); */
+    filter: drop-shadow(  0 -0.5rem 1rem rgba(43, 0, 255, 0.351));
+}
